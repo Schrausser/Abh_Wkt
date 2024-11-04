@@ -1,7 +1,7 @@
 # Abh_Wkt
 Dependent probability calculated in the probability and contingency field. Presentation of the concepts of *multiplicative*, *additive* and *conditional* probability and above all *Total* and *Bayes* probability.
 
-See also De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) or Hacking (1975).
+See also De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
 
 ## References
 
@@ -12,3 +12,6 @@ Bernoulli, J. (1713). *Ars conjectandi, opus posthumum. Accedit Tractatus de se
 De Moivre, A. (1711). De mensura sortis, seu, de probabilitate eventuum in ludis a casu fortuito pendentibus. *Philosophical Transactions of the Royal Society of London 27* (329): 213–64. https://doi.org/10.1098/rstl.1710.0018.
 
 Hacking, I. (1975). *The Emergence of Probability: A Philosophical Study of Early Ideas About Probability, Induction and Statistical Inference*. Cambridge University Press. https://philpapers.org/rec/HACTEO-8.
+
+Hald, A. (1990). *History of Probability and Statistics and Their Applications before 1750*. New York: Wiley Series in Probability; Statistics, Wiley-Interscience. https://onlinelibrary.wiley.com/doi/book/10.1002/0471725161.
+
