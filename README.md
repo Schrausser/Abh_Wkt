@@ -1,5 +1,7 @@
 # Abh_Wkt
-Dependent probability calculated in the probability and contingency field. Presentation of the concepts of *multiplicative*, *additive* and *conditional* probability and above all *Total* and *Bayes* probability.
+Dependent probability calculated in the probability and contingency field. Presentation of the concepts of *multiplicative*, *additive* and *conditional* probability and above all *Total* and *Bayes* probability with
+
+$$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
 See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
 
