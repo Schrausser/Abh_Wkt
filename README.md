@@ -3,11 +3,14 @@ Dependent probability calculated in the probability and contingency field. Prese
 
 $$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
-See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
+See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990),
+Bortz & Schuster (2010)
 
 ## References
 
 Arnauld, A., & Nicole, P. (1662). *La logique ou L’art de penser*. 1st ed. A Paris: Chez Charles Savreux, au pied de la Tour de Nostre Dame. https://gallica.bnf.fr/ark:/12148/bpt6k574432.image.
+
+Bortz, J., & Schuster, C. (2010). *Statistik Für Human- Und Sozialwissenschaftler: Limitierte Sonderausgabe*. 7th ed. Springer-Lehrbuch. Berlin, Heidelberg: Springer. https://doi.org/10.1007/978-3-642-12770-0.
 
 Bayes, T., & Price, R. (1763). An Essay Towards Solving a Problem in the Doctrine of Chances. By the Late Rev. Mr. Bayes, f. R. S. Communicated by Mr. Price, in a Letter to John Canton, a. M. F. R. s. *Philosophical Transactions (1683-1775) 53*: 370–418. http://www.jstor.org/stable/105741.
 
