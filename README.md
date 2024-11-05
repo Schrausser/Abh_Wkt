@@ -3,8 +3,9 @@ Dependent probability calculated in the probability and contingency field. Prese
 
 $$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
-See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990),
-Bortz & Schuster (2010)
+See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
+
+For a deeper insight into probability theory and probability calculation see e.g. Bortz & Schuster (2010).
 
 ## References
 
