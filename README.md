@@ -9,7 +9,7 @@ $$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
 See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
 
-For a deeper insight into probability theory and probability calculation see e.g. Bortz & Schuster (2010).
+For a deeper insight into probability theory and probability calculation see e.g. Bortz & Schuster (2010) or Harney (2016).
 
 ## References
 
@@ -26,3 +26,5 @@ De Moivre, A. (1711). De mensura sortis, seu, de probabilitate eventuum in ludi
 Hacking, I. (1975). *The Emergence of Probability: A Philosophical Study of Early Ideas About Probability, Induction and Statistical Inference*. Cambridge University Press. https://philpapers.org/rec/HACTEO-8.
 
 Hald, A. (1990). *History of Probability and Statistics and Their Applications before 1750*. New York: Wiley Series in Probability; Statistics, Wiley-Interscience. https://onlinelibrary.wiley.com/doi/book/10.1002/0471725161.
+
+Harney, H. L. (2016). Bayes’ Theorem. In *Bayesian Inference: Data Evaluation and Decisions*, 11–25. Springer International Publishing. https://doi.org/10.1007/978-3-319-41644-1_2.
