@@ -1,5 +1,5 @@
 # Abh_Wkt
-Dependent probabilities calculated in the probability and contingency fields. Presentation of the concepts of *multiplicative*, *additive* and *conditional* probability
+*Dependent probabilities* calculated in the probability and contingency fields. Presentation of the concepts of *multiplicative*, *additive* and *conditional* probability
 
 $$p(B|A)$$
 
