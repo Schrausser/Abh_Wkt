@@ -7,9 +7,9 @@ and above all *Total* probability within *Bayes' theorem*,  where
 
 $$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
-See Cardano (1545), Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
+For key figures in the foundation of probability see Cardano (1545), Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
 
-For a deeper insight into probability theory and probability calculation see e.g. Bortz & Schuster (2010) or Harney (2016).
+A deeper insight into probability theory and probability calculation give e.g. Bortz & Schuster (2010) or Harney (2016).
 
 ## References
 
