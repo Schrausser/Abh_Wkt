@@ -7,7 +7,7 @@ and above all *Total* probability within *Bayes' theorem*,  where
 
 $$p(A|B)=\frac{p(B|A)⋅pA}{pB}.$$
 
-See Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
+See Cardano (1545), Arnauld and Nicole (1662), De Moivre (1711), Bernoulli (1713), Bayes and Price (1763) also Hacking (1975) or Hald (1990).
 
 For a deeper insight into probability theory and probability calculation see e.g. Bortz & Schuster (2010) or Harney (2016).
 
@@ -20,6 +20,8 @@ Bortz, J., & Schuster, C. (2010). *Statistik Für Human- Und Sozialwissenschaft
 Bayes, T., & Price, R. (1763). An Essay Towards Solving a Problem in the Doctrine of Chances. By the Late Rev. Mr. Bayes, f. R. S. Communicated by Mr. Price, in a Letter to John Canton, a. M. F. R. s. *Philosophical Transactions (1683-1775) 53*: 370–418. http://www.jstor.org/stable/105741.
 
 Bernoulli, J. (1713). *Ars conjectandi, opus posthumum. Accedit Tractatus de seriebus infinitis, et epistola gallicé scripta de ludo pilae reticularis*. Basileae: Impensis Thurnisiorum, Fratrum. https://www.e-rara.ch/zut/doi/10.3931/e-rara-9001.
+
+Cardano, G. (1545). *HIERONYMI CARDANI, ARTIS MAGNÆ, SIVE DE REGVLIS ALGEBRAICIS, LIBER VNVS*. S. P. D: ANDREÆ OSIANDRO viro eruditiss. https://web.archive.org/web/20220201093634/http://www.filosofia.unimi.it/cardano/testi/operaomnia/vol_4_s_4.pdf.
 
 De Moivre, A. (1711). De mensura sortis, seu, de probabilitate eventuum in ludis a casu fortuito pendentibus. *Philosophical Transactions of the Royal Society of London 27* (329): 213–64. https://doi.org/10.1098/rstl.1710.0018.
 
