@@ -12,6 +12,8 @@ Important works on the basis of probability theory can be found in Cardano ([154
 
 A deeper insight into probability theory and probability calculation give e.g. Bortz and Schuster ([2010](https://doi.org/10.1007/978-3-642-12770-0)) or Harney ([2016](https://doi.org/10.1007/978-3-319-41644-1_2)).
 
+![figure.\label{anim01}](anim01.gif)
+
 ## References
 
 Arnauld, A., & Nicole, P. (1662). *La logique ou L’art de penser*. 1st ed. A Paris: Chez Charles Savreux, au pied de la Tour de Nostre Dame. [https://gallica.bnf.fr/ark:/12148/bpt6k574432.image](https://gallica.bnf.fr/ark:/12148/bpt6k574432.image)
